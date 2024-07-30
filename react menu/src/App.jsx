@@ -39,7 +39,7 @@ export default function App() {
       <div className="foborder border-black text-center flex flex-col justify-center bg-orange-400">
         -
       </div>
-      <div className="font-extrabold  border border-black text-center flex flex-col justify-center ">
+      <div className="font-extrabold text-blue-400 border border-black text-center flex flex-col justify-center ">
         1
       </div>
       <div className="font-extrabold  border border-black text-center flex flex-col justify-center">
